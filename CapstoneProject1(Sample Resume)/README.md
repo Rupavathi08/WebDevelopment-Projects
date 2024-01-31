@@ -1,1 +1,1 @@
-This Capstone Project is nothing but a Sample Rusume.
+This Capstone Project is nothing but a Sample Resume.
